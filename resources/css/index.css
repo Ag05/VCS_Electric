@@ -24,3 +24,14 @@ header div nav{
   padding-right: 30px;
   font-size: 12px;
 }
+
+.topBar {
+  position:relative;
+}
+
+header div nav span a {
+  border: 2px solid black;
+  background-color: Violet;
+  font-family: monospace;
+  font-size: 30px;
+}
